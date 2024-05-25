@@ -24,12 +24,6 @@ Por un lado, veremos la aplicación Teams de Microsoft, una plataforma que ha id
 
 Por otro lado, el segundo caso de hibridación del que hablaremos será del sistema de asistencia al conductor Autopilot de Tesla. Toda una revolución en el mundo de la automatización que ha llevado el conducir un paso más allá integrando las nuevas tecnologías existentes.
 
-  
-
-Para diferenciar estos procesos de otras remezclas más conocidas, introduzco un término nuevo: remezclabilidad profunda. Normalmente una remezcla (remix) es una combinación de contenidos procedentes de un único medio (como una remezcla musical) o de varios medios distintos (como las obras anime music video o AMV, que combinan contenido de películas de anime y videoclips musicales). No obstante, el entorno de producción de
-
-software permite a los diseñadores remezclar no tan solo el contenido de los distintos tipos de medios, sino también sus técnicas, métodos de trabajo y formas de representación y expresión fundamentales.
-
 
 ## Re-descubriendo la hibridacion: Microsoft Teams
 ![Microsoft Teams](https://www.muylinux.com/wp-content/uploads/2022/11/MicrosoftTeams.png)
@@ -66,7 +60,7 @@ Una de las innovaciones más relevantes en los últimos años que ha introducido
 Algunas de las funcionalidades que podemos encontrar dentro de este sistema son la ayuda al aparcamiento, el control de crucero adaptado al tráfico, el autogiro, el cambio de carril automático o la navegación en piloto automático; aunque esta última está aún en su versión beta. Todas estas nuevas funcionalidades pretenden cambiar nuestra percepción de la conducción, haciéndola cada vez más autónoma y permitiendo que los usuarios disfruten del viaje sin tener que preocuparse de nada.
 
 https://github.com/afuentespas/PEC3_Manovich_Reloaded/assets/19152081/7738fad4-effa-49a0-95fa-1e9e983570f2
-<p><small><a href="https://vimeo.com/192179726">Autopilot Full Self-Driving Hardware  (Neighborhood Short)</a> de <a href="https://vimeo.com/user128712855">Tesla</a> en <a href="https://vimeo.com">Vimeo</a>.</small></p></div>
+<p><small><a href="https://vimeo.com/192179726">Autopilot Full Self-Driving Hardware (Neighborhood Short)</a> de <a href="https://vimeo.com/user128712855">Tesla</a> en <a href="https://vimeo.com">Vimeo</a>.</small></p></div>
 
 Pero lo que realmente nos interesa en este ensayo es cómo aparece la hibridación en el sistema creado por Elon Musk. Pues bien, para hacer realidad esta visión, Tesla ha unido el uso de cámaras y sensores integrados en el coche con sistemas de geolocalización, mapas de navegación e inteligencia artificial. Un ejemplo claro es Tesla Visión, que consiste en un conjunto de herramientas de procesamiento de la visión desarrolladas sobre la base de una red neuronal que deconstruye el entorno del coche y permite mayores niveles de confiabilidad que las técnicas clásicas.
 
