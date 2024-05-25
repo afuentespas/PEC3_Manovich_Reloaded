@@ -51,7 +51,7 @@ Por último, me gustaría destacar la integración de Copilot. Aunque ya conocem
 
 
 ## Re-descubriendo la hibridacion: Tesla Autopilot
-![esla Autopilot](https://media.somoselectricos.com/wp-content/uploads/2024/04/tesla-logo-fondo-rojo.jpg)
+![esla Autopilot](https://i.pinimg.com/originals/52/a2/c0/52a2c01e7427101a9aba4ce0cd7e20f9.jpg)
 
 Tesla se está convirtiendo en los últimos tiempos en uno de los mayores referentes en el mundo de la automoción.Gracias a sus modelos eléctricos y la inclusión de las nuevas tecnologías en sus sistemas de conducción, se está posicionando como una de las marcas más influyentes y pioneras en el sector automovilístico.
 
@@ -86,11 +86,14 @@ Teniendo en cuenta los dos ejemplos anteriores, podemos ver que la hibridación 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Wikipedia. (2023, 4 noviembre). Microsoft Teams. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Microsoft_Teams)
-* Wikipedia. (2024, 5 mayo). Tesla Autopilot. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Tesla_Autopilot)
-* Wlibebe. (2024, 19 abril). Administrar copiloto para reuniones y eventos de Microsoft Teams - Microsoft Teams. Microsoft Learn. [Enlace](https://learn.microsoft.com/es-es/microsoftteams/copilot-teams-transcription)
+* Wikipedia. (2023, 4 noviembre). **Microsoft Teams**. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Microsoft_Teams)
+* Wikipedia. (2024, 5 mayo). **Tesla Autopilot**. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Tesla_Autopilot)
+* Wlibebe. (2024, 19 abril). **Administrar copiloto para reuniones y eventos de Microsoft Teams - Microsoft Teams**. Microsoft Learn. [Enlace](https://learn.microsoft.com/es-es/microsoftteams/copilot-teams-transcription)
 * [Microsoft Teams](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software)
 * [Microsoft Mesh](https://www.microsoft.com/es-es/microsoft-teams/microsoft-mesh)
 * [Microsoft Copilot](https://copilot.microsoft.com/)
 * [Tesla - Piloto automático y Capacidad de conducción autónoma total](https://www.tesla.com/es_es/support/autopilot)
 * [Tesla - El futuro de la conducción](https://www.tesla.com/es_PR/autopilot)
+* Imagen 1 - Microsoft Teams - [MuyLinux](https://www.muylinux.com/wp-content/uploads/2022/11/MicrosoftTeams.png)
+* Imagen 2 - Tesla - [Pinterest - Marco Baessa Pinto](https://i.pinimg.com/originals/52/a2/c0/52a2c01e7427101a9aba4ce0cd7e20f9.jpg)
+
