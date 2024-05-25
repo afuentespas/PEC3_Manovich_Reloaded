@@ -16,7 +16,7 @@ Puede que en este punto te preguntes, ¿y no es lo mismo la multimedia que la hi
 
 > *"Así pues, ¿cuál es la diferencia entre los dos? En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro. (...) Por contra, en los híbridos de medios, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno."*
 > 
-> -- <cite>Manovich, 2013</cite>
+> <cite>Manovich, 2013</cite>
 
 En este ensayo que tienes entre manos, te propongo dos ejemplos de hibridación para comprender un poco mejor esa visión de Manovich.
 
@@ -52,7 +52,7 @@ Por último, me gustaría destacar la integración de Copilot. Aunque ya conocem
 
 > *"El resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»."*
 > 
-> -- <cite>Manovich, 2013</cite>
+> <cite>Manovich, 2013</cite>
 
 
 
@@ -78,7 +78,7 @@ Por último, otra de las funciones que me gustaría resaltar y que implica la hi
 
 > *"Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.”* 
 > 
-> -- <cite>Manovich, 2013</cite>
+> <cite>Manovich, 2013</cite>
 
 ## Conclusiones
 
@@ -86,7 +86,7 @@ Teniendo en cuenta los dos ejemplos anteriores, podemos ver que la hibridación 
 
 > *"La hibridación de medios crea nuevas realidades culturales al combinar elementos previamente separados"*
 > 
-> -- <cite>Manovich, 2013</cite>
+> <cite>Manovich, 2013</cite>
 
 
 ### Referencias y Bibliografía
