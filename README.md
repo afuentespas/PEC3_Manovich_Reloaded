@@ -85,12 +85,12 @@ Teniendo en cuenta los dos ejemplos anteriores, podemos ver que la hibridación 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Wikipedia. (2023, 4 noviembre). Microsoft Teams. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Microsoft_Teams)
+* Wikipedia. (2024, 5 mayo). Tesla Autopilot. Wikipedia, la Enciclopedia Libre. [Enlace](https://es.wikipedia.org/wiki/Tesla_Autopilot)
+* Wlibebe. (2024, 19 abril). Administrar copiloto para reuniones y eventos de Microsoft Teams - Microsoft Teams. Microsoft Learn. [Enlace](https://learn.microsoft.com/es-es/microsoftteams/copilot-teams-transcription)
 * [Microsoft Teams](https://www.microsoft.com/es-es/microsoft-teams/group-chat-software)
 * [Microsoft Mesh](https://www.microsoft.com/es-es/microsoft-teams/microsoft-mesh)
 * [Microsoft Copilot](https://copilot.microsoft.com/)
-* [Aprendizaje de Copilot sobre Teams](https://learn.microsoft.com/es-es/microsoftteams/copilot-teams-transcription)
-* [Wikipedia - Teams](https://es.wikipedia.org/wiki/Microsoft_Teams)
 * [Tesla - Piloto automático y Capacidad de conducción autónoma total](https://www.tesla.com/es_es/support/autopilot)
 * [Tesla - El futuro de la conducción](https://www.tesla.com/es_PR/autopilot)
-* [Wikipedia - Tesla Autopilot](https://es.wikipedia.org/wiki/Tesla_Autopilot)
